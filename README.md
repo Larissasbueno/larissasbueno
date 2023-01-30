@@ -1,4 +1,4 @@
-# Hi, I'm Larissa 👋
+# 💫Hi, I'm Larissa 👋
 
 - 🔭 Desenvolvedor Salesforce Jr. @Soulcode Academy
 - 🌱 Estudando Especialista Back-End Java @Ebac
@@ -6,22 +6,24 @@
 - 😄 Pronouns: ela/dela
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LariBueno#9806) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/larissasbuenno) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lari.sbueno/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/larissasbueno/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Larissasbuenno) 
+
+# 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  height="150" style="border-radius:50px;"src="https://cdn.picrew.me/shareImg/org/202301/338224_DAMCA65L.png">
         
 </div>
-  
-  ## I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
- 
-<div> 
-  <a href="https://instagram.com/lari.sbueno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/LariBueno#9806" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:larissasbuenno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissasbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Larissasbueno&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Larissasbueno&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissasbueno&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### ✍️ 
+### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
