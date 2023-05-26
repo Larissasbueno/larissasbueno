@@ -1,9 +1,9 @@
 # 💫Hi, I'm Larissa 👋
 
 - T65 - Full-Stack Java - Generation Brasil 
-- ☁️ Salesforce Developer Jr. - Soulcode Academy
 - 👩🏽‍🎓 Studying Java Back-End Specialist - Ebac
 - 👩🏽‍🎓 Studying System Analysis and Development - UniFatecie 
+- ☁️ Salesforce Developer Jr. - Soulcode Academy
 - 📫 Contact me: larissasbuenno@gmail.com
 - 😄 Pronouns: She/Her
 ## 💻 Languages
