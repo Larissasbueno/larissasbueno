@@ -1,6 +1,6 @@
 # 💫Hi, I'm Larissa 👋
 
-- T65 - Full-Stack Java - Generation Brasil 
+- Developer Full-Stack Java - Generation Brasil 
 - 👩🏽‍🎓 Studying Java Back-End Specialist - Ebac
 - 👩🏽‍🎓 Studying System Analysis and Development - UniFatecie 
 - ☁️ Salesforce Developer Jr. - Soulcode Academy
