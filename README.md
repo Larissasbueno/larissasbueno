@@ -1,7 +1,7 @@
 # 💫Hi, I'm Larissa 👋
 
 - Developer Full-Stack Java - Generation Brasil 
-- 👩🏽‍🎓 Studying Java Back-End Specialist - Ebac
+- Java Back-End Specialist - Ebac
 - 👩🏽‍🎓 Studying System Analysis and Development - UniFatecie 
 - ☁️ Salesforce Developer Jr. - Soulcode Academy
 - 📫 Contact me: larissasbuenno@gmail.com
